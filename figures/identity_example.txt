@@ -1,0 +1,7 @@
+Query: XXXXAVLIFIWTXXXX (16 residues long)
+
+    AVLIFIWT (Query)
+    | ||| |  (Identical residue matches = 5)
+    AALIFHW- (Subject: 7 residues, 2 mismatches, 1 gap)
+
+Sequence identity = 5/8 = 62.5%

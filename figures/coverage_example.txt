@@ -1,0 +1,7 @@
+Query: XXXXAVLIFIWTXXXX (16 residues long)
+
+    AVLIFIWT (Query)
+    | ||| |  (Aligned length = 8)
+    AALIFHW- (Subject: 7 residues, 2 mismatches, 1 gap)
+
+Query sequence coverage = 8/16 = 50%
