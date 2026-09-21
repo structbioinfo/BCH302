@@ -1,1 +1,1 @@
-# BCH302
+# BCH302 Bioinformatics module
